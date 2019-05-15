@@ -1,5 +1,5 @@
 # PUBSUB
-Custom js event menager.
+Custom js event manager.
 
 ```javascript
 
